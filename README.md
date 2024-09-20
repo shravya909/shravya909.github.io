@@ -19,7 +19,7 @@
    <img src="FIND AN IMAGE"/>
    <a href="https://tastesbetterfromscratch.com/pink-sauce-pasta/" target="_blank">Pink Sauce Pasta</a><br>
 
-   <img src="https://www.flickr.com/photos/68147320@N02/8370004388">Burrata Roberto Pizza, Don Antonio, New York</a>/
+   <p class="attribution">"<a rel="noopener noreferrer" href="https://www.flickr.com/photos/68147320@N02/8370004388">Burrata Roberto Pizza, Don Antonio, New York</a>" by <a rel="noopener noreferrer" href="https://www.flickr.com/photos/68147320@N02">T.Tseng</a> is licensed under <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">CC BY 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" /></a>.</p>
    <a href="https://italianfoodforever.com/2015/11/buffalo-mozzarella-burrata-pizza/" target="_blank">Burrata Pizza</a>
 
  <h2>Desserts</h2>
