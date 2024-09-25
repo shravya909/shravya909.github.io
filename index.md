@@ -14,7 +14,7 @@
  <h2>Appetizers</h2>
 
    <img src="FIND AN IMAGE"/>
-   <a href="http://get2droothealthandwellness.com/2021/08/20/watermelon-and-arugula-salad-oil-free-and-dairy-free/" target="_blank">Watermelon Arugula Salad without Feta</a><br>
+   <a href="http://get2droothealthandwellness.com/2021/08/20/watermelon-and-arugula-salad-oil-free-and-dairy-free/" target="_blank">Watermelon Arugula Salad without Feta</a><br><br>
 
    <a href="https://www.indianhealthyrecipes.com/samosa-recipe-make-samosa/" target="_blank">Samosas and Chutney</a><br>
 
