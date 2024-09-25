@@ -16,6 +16,10 @@
    <img src="FIND AN IMAGE"/>
    <a href="http://get2droothealthandwellness.com/2021/08/20/watermelon-and-arugula-salad-oil-free-and-dairy-free/" target="_blank">Watermelon Arugula Salad without Feta</a>
 
+   <a href="https://www.indianhealthyrecipes.com/samosa-recipe-make-samosa/" target="_blank">Samosas and Chutney</a>
+
+   <a href="https://www.skinnytaste.com/spicy-tuna-poke-bowls/" target="_blank">Spicy Ahi Poke Bowl</a>
+
  <h2>Main Course</h2>
 
    <img src="FIND AN IMAGE"/>
