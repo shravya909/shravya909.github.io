@@ -14,8 +14,9 @@
  <h2>Appetizers</h2>
 
    <img src="FIND AN IMAGE"/>
-   <a href="http://get2droothealthandwellness.com/2021/08/20/watermelon-and-arugula-salad-oil-free-and-dairy-free/" target="_blank">Watermelon Arugula Salad without Feta</a><br><br>
+   <a href="http://get2droothealthandwellness.com/2021/08/20/watermelon-and-arugula-salad-oil-free-and-dairy-free/" target="_blank">Watermelon Arugula Salad without Feta</a><br>
 
+   <img src="FIND AN IMAGE"/>
    <a href="https://www.indianhealthyrecipes.com/samosa-recipe-make-samosa/" target="_blank">Samosas and Chutney</a><br>
 
    <a href="https://www.skinnytaste.com/spicy-tuna-poke-bowls/" target="_blank">Spicy Ahi Poke Bowl</a>
@@ -25,7 +26,7 @@
    <img src="FIND AN IMAGE"/>
    <a href="https://tastesbetterfromscratch.com/pink-sauce-pasta/" target="_blank">Pink Sauce Pasta</a><br>
 
-   <a><img src="![alice-brie-Po0ChIop2po-unsplash](https://github.com/user-attachments/assets/b33d4420-266d-4560-8514-dff87925d2bd)"/></a><br>
+   <a><img src="https://images.unsplash.com/photo-1689458322730-ea01146cceae?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/></a><br>
    <a href="https://italianfoodforever.com/2015/11/buffalo-mozzarella-burrata-pizza/" target="_blank">Burrata Pizza</a>
 
  <h2>Desserts</h2>
