@@ -5,7 +5,7 @@
 </head>
 
 <body>
-   <img src="https://plus.unsplash.com/premium_photo-1663850685051-ef8c3a8524ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Watermelon salad image - Unsplash" width="800" height="200"/>
+   <img src="https://images.unsplash.com/photo-1637370988123-41bd9a6bcd48?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Watermelon salad image - Unsplash" width="350" height="200" style="width:800px; heigh:200px; object-fit:none"/>
   <h1> A Curated Collection of All of the Best Recipes to Grace this Earth</h1>
     <h3>By: S.S.</h3> 
 
