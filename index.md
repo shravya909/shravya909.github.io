@@ -6,7 +6,7 @@
  <img src="https://images.unsplash.com/photo-1637370988123-41bd9a6bcd48?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Watermelon salad image - Unsplash" width="800" height="500"/>
    
   <h1> A Curated Collection of All of the Best Recipes to Grace this Earth</h1>
-    <h3>By: S.S.</h3>
+    <h3><strong>By: S.S.</strong></h3>
 
   <p><strong>About Me:</strong> As an avid eater and digester, I have come accross many, many recipes over these long years that I've lived. I do not exaggerate when I say that some of these creations were crafted at the hands of outright monsters and others were blessed by angelic supernatural beings. I have curated a selective list of the latter group, as I believe in the act of sharing the good things in this world, however limited as they may be (the dessert section is my favorite). I entrust you with the blueprints for these magical foodthings and sincerely hope you enjoy making and eating them. Lukewarm regards, S.S.</p>
 
